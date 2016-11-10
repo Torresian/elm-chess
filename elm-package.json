@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Multiplayer online chess with advanced AI and PGN viewer written in elm",
-    "repository": "https://github.com/Torresian/elm-chess",
+    "repository": "https://github.com/Torresian/elm-chess.git",
     "license": "BSD3",
     "source-directories": [
         "./src"
