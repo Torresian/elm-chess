@@ -5,6 +5,7 @@ import Html.Attributes exposing (style)
 import List exposing (..)
 
 
+main : Html msg
 main =
     div []
         [ board
